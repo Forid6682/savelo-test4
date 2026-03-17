@@ -1,0 +1,5 @@
+{
+  "name": "Savelo Neo",
+  "description": "Exclusive experience with luxury savings and modern living.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
